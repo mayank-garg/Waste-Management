@@ -5,7 +5,7 @@
 		username="bdmdev" 
 		password="bdmdev"
 		driverClassName="com.sap.db.jdbc.Driver"
-		url="jdbc:sap://10.65.140.72:30015/?autocommit=true"
+		url="jdbc:sap://localhost:3306/?autocommit=true"
 		maxActive="10" 
 		maxIdle="4" />
 
